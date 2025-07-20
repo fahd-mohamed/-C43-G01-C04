@@ -325,6 +325,8 @@ namespace session4
             //Console.WriteLine($"B:{B}");
 
             #endregion
+            Console.WriteLine("V06");
+
             #region  Passing Parameter Reference Type
             ////Passing Parameter Reference Type
             ////1. Passing By Value
