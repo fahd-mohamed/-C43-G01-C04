@@ -170,6 +170,7 @@ namespace session4
             //Console.WriteLine(Numbers.Rank); // Dimension  
             #endregion
 
+            Console.WriteLine("V02");
 
             #region Two D Array
 
