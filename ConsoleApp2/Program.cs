@@ -230,6 +230,7 @@ namespace session4
 
 
             #endregion
+            Console.WriteLine("V03");
 
             #region Two D Array Juddge
             //int[][] Marks = new int[3][];
