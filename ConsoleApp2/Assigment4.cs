@@ -26,14 +26,14 @@ namespace session4
         static void main(string[] args)
         {
 
-            Console.WriteLine("Q1");
+            //Console.WriteLine("Q1");
             #region Q1
 
-            1.By Value:
-            The original  alue is copied to the variable in the function
+        //    1.By Value:
+        //    The original  alue is copied to the variable in the function
 
-        2.By Reference:
-            The reference to the original variable is passed.
+        //2.By Reference:
+        //    The reference to the original variable is passed.
 
 
 
