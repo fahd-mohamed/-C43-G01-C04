@@ -25,7 +25,10 @@ namespace session4
        
         static void main(string[] args)
         {
+
+            Console.WriteLine("Q1");
             #region Q1
+
             1.By Value:
             The original  alue is copied to the variable in the function
 
