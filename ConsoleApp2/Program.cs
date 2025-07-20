@@ -369,6 +369,8 @@ namespace session4
             //SumMul(A, B,out Sum , out Mul); 
             #endregion
 
+            Console.WriteLine("V08");
+
             #region Params
             ////Params
             //int[] Numbers = { 1, 2, 3, 4,5,6,7 };
